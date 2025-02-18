@@ -58,8 +58,8 @@ const Hero = () => {
             Get started
           </motion.button>
         </motion.div>
-        <motion.div className="px-6 mb-28 md:px-0 flex justify-center" variants={variants}>
-          <motion.img className="w-full max-w-[500px]" src={cards} alt="Cards" variants={variants} />
+        <motion.div className="px-6 mb-32 md:px-0 flex justify-center" variants={variants}>
+          <motion.img className="w-full  max-w-[500px]" src={cards} alt="Cards" variants={variants} />
         </motion.div>
       </motion.div>
 
